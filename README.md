@@ -1,5 +1,3 @@
-# iso-3166-csv
+# iso-3166-1-csv
 
-[`iso-3166.csv`](./iso-3166.csv) contains the ISO 3166 country codes (English and French short names, Alpha2/Alpha3/Numeric codes) extracted from ISO's website. This CSV file is periodically updated by [`takuma7/iso-3166-fetcher`](https://github.com/takuma7/iso-3166-fetcher) to reflect the latest data.
-
-
+[`iso-3166-1.csv`](./iso-3166-1.csv) contains the ISO 3166-1 country codes (Alpha-2/Alpha-3/Numeric codes with English and French short names) extracted from ISO's website. This CSV file is periodically updated by [`takuma7/get-country-codes`](https://github.com/takuma7/get-country-codes) to reflect the latest data.
